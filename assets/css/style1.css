@@ -1,0 +1,57 @@
+body{
+
+	background:#f4f4f4;
+}
+.btn-primary{
+
+	background-color:#333333;
+}
+
+.navbar{
+min-height:33px !important;
+margin-bottom:0;
+border-radius:0;
+
+}
+.navbar-nav > li > a, .navbar-brand{
+
+	padding-top:6px !important;
+	padding-bottom:0px !important;
+	height:33px;
+}
+
+#header{
+
+	background:#333333;
+	color:#fff;
+	padding-top:33px;
+	margin-bottom:33px;
+}
+.breadcrumb{
+
+	background:#cccccc;
+	color:#333333;
+}
+.breadcrumb a{
+
+	background:#333333;
+	color:#cccccc;
+}
+.progress-bar{
+
+	background:#333333;
+	color:#cccccc;
+}
+.main-color-bg{
+background:#333333 !important;
+	color:#fff !important;
+
+}
+.text-box{
+
+	text-align:center;
+}
+.topbas{
+
+	top:12px;
+}
